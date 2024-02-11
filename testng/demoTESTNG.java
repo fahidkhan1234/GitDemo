@@ -8,5 +8,6 @@ public class demoTESTNG {
 	  
 
 	 System.out.println("Hello");
+	  System.out.println("Test Pull");
   }
 }
